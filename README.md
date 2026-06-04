@@ -7,9 +7,7 @@ Capanema, Pará, Brasil • [LinkedIn](https://www.linkedin.com/in/beatriz-ara%C
 
 ## Sobre mim
 
-Engenheira Front-end especializada na arquitetura de interfaces modernas, escaláveis e de alta performance utilizando o ecossistema React, Next.js e TypeScript. Minha abordagem de desenvolvimento é orientada por dados e focada rigorosamente na redução de fricção mental e otimização da experiência do usuário (UX), conectando engenharia de ponta aos objetivos estratégicos de negócio.
-
-Com sólida experiência em operações, automação de processos inteligentes e infraestrutura de TI, atuo além das camadas superficiais da interface. Desenvolvo sistemas sob a ótica de *Product Thinking*, transformando fluxos complexos em soluções digitais intuitivas, eficientes e de alto valor agregado.
+Engenheira Front-end com foco no desenvolvimento de interfaces modernas, escaláveis e de alta performance utilizando o ecossistema React, Next.js e TypeScript. Minha abordagem de desenvolvimento é orientada por dados e focada rigorosamente na redução de fricção mental e otimização da experiência do usuário (UX), conectando engenharia de ponta aos objetivos estratégicos de negócio.
 
 ---
 

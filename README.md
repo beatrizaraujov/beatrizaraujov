@@ -1,199 +1,74 @@
 # Maria Beatriz de Araújo Viana
 
-### Software Engineer • Full Stack Developer • Product Thinking
+### Full Stack Developer & Product Thinker
 
-📍 Capanema, Pará, Brasil  
-💼 LinkedIn: https://www.linkedin.com/in/beatriz-ara%C3%BAjo-386976270/  
-📧 E-mail: vianabeatricx@gmail.com
+Capanema, Pará, Brasil • [LinkedIn](https://www.linkedin.com/in/beatriz-ara%C3%BAjo-386976270/) • [E-mail](mailto:seu-email@dominio.com)
 
 ---
 
-# Olá! 
+## Sobre mim
 
-Sou desenvolvedora de software com foco em desenvolvimento Full Stack, construindo aplicações web modernas utilizando React, Next.js, TypeScript e Node.js.
-
-Tenho interesse especial por sistemas que resolvem problemas reais, principalmente dashboards, plataformas SaaS, ferramentas internas e aplicações orientadas por dados.
-
-Além do desenvolvimento de interfaces, venho aprofundando meus conhecimentos em backend, bancos de dados, arquitetura de software, Docker e infraestrutura em nuvem, buscando participar de todas as etapas de construção de um produto.
-
-Acredito que um bom software nasce do equilíbrio entre engenharia, experiência do usuário e entendimento profundo do problema.
+Desenvolvedora Full Stack com foco na construção de aplicações modernas, escaláveis e de alta performance utilizando o ecossistema React, Next.js, TypeScript e Node.js. Minha abordagem combina engenharia de software, experiência do usuário (UX) e visão de produto para desenvolver soluções que unem qualidade técnica, usabilidade e objetivos de negócio.
 
 ---
 
-# Tecnologias
+## Competências de Engenharia & Produto
 
-## Front-end
-
-- React
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- Tailwind CSS
-- Astro
-- HTML5
-- CSS3
-
-## Back-end
-
-- Node.js
-- Express
-- APIs REST
-- Supabase
-- PostgreSQL
-
-## Ferramentas
-
-- Git
-- GitHub
-- Docker
-- Vite
-- Figma
-
-## Cloud & Deploy
-
-- AWS
-- Vercel
+* **Desenvolvimento Full Stack:** Construção de aplicações modernas com React, Next.js, Node.js e integração com APIs REST.
+* **Arquitetura de Software:** Desenvolvimento de componentes reutilizáveis, modulares e fortemente tipados com TypeScript.
+* **Design Systems & UI:** Implementação de interfaces responsivas e consistentes utilizando Tailwind CSS e princípios de Design Systems.
+* **Performance & Otimização:** Otimização de carregamento, renderização e boas práticas voltadas para performance e experiência do usuário.
+* **Interfaces Orientadas a Dados:** Desenvolvimento de dashboards e sistemas integrados a APIs para visualização de métricas e apoio à tomada de decisão.
+* **Backend & Banco de Dados:** Integração de serviços, modelagem de APIs e utilização de PostgreSQL, Supabase e Docker em ambientes de desenvolvimento.
 
 ---
 
-# O que gosto de construir
+## Stack Tecnológica
 
-- Sistemas internos
-- Dashboards
-- Plataformas SaaS
-- Ferramentas de produtividade
-- Interfaces orientadas por dados
-- Sistemas de gestão
-- Automação de processos
-
----
-
-# Projetos
-
-## 🚜 Leve Planejador
-
-Sistema web desenvolvido para planejamento e controle da alocação de equipamentos entre contratos.
-
-O projeto substitui planilhas operacionais por uma interface única capaz de visualizar equipamentos, contratos e quantidades alocadas em tempo real, simplificando o planejamento da operação.
-
-### Principais desafios
-
-- Arquitetura escalável de componentes
-- Grid dinâmica de equipamentos × contratos
-- Integração com banco de dados existente
-- Organização de regras de negócio
-- Otimização da experiência do usuário
-- Performance para grandes volumes de dados
-
-**Stack**
-
-- React
-- TypeScript
-- Tailwind CSS
-- Supabase
-- Docker
+* **Linguagens:** JavaScript (ES6+), TypeScript
+* **Front-end:** React, Next.js, Astro
+* **Back-end:** Node.js, APIs REST
+* **Banco de Dados:** PostgreSQL, Supabase
+* **Estilização & Design:** Tailwind CSS, Figma
+* **Ferramentas & Ecossistema:** Git, GitHub, Docker, Vite
 
 ---
 
-## 🌱 AgroClimate Intelligence
+## Projetos em Destaque
 
-Dashboard para análise de dados climáticos e agrícolas utilizando integração com APIs públicas e bases geográficas.
+### 🌾 AgroClimate Intelligence
 
-### Funcionalidades
+Dashboard para análise e visualização de dados climáticos e agrícolas. O projeto integra APIs geográficas e governamentais (como MapBiomas e IBGE), aplicando filtros inteligentes e otimizações de performance para fornecer informações de forma clara e eficiente.
 
-- Visualização de indicadores
-- Filtros inteligentes
-- Integração com APIs
-- Interface responsiva
+* *Tecnologias:* Next.js, TypeScript, Tailwind CSS, API Integration.
 
-**Stack**
+### 📜 TechCode Editorial
 
-- Next.js
-- TypeScript
-- Tailwind CSS
+Plataforma editorial minimalista inspirada no conceito de *Quiet Luxury*, priorizando tipografia, performance e experiência de leitura, com microinterações desenvolvidas em CSS.
 
----
+* *Tecnologias:* Astro, TypeScript, Tailwind CSS, Vercel.
 
-## 💰 Finanly
+### 💰 Finanly
 
-Projeto de uma plataforma de gestão financeira focada em organização pessoal e visualização clara das informações financeiras.
+Projeto de uma aplicação de gestão financeira focada na organização de receitas, despesas e planejamento financeiro por meio de dashboards intuitivos e visualização simplificada dos dados.
 
-### Funcionalidades
-
-- Dashboard financeiro
-- Controle de receitas e despesas
-- Organização de categorias
-- Planejamento financeiro
-
-**Stack**
-
-- React
-- Next.js
-- TypeScript
+* *Tecnologias:* React, Next.js, Tailwind CSS.
 
 ---
 
-## 📰 TechCode Editorial
-
-Blog desenvolvido com Astro priorizando desempenho, tipografia e experiência de leitura.
-
-**Stack**
-
-- Astro
-- TypeScript
-- Tailwind CSS
-- Vercel
-
----
-
-# Atualmente estudando
-
-- Arquitetura de Software
-- Engenharia Full Stack
-- Node.js
-- PostgreSQL
-- Docker
-- AWS
-- Microsserviços
-- Clean Architecture
-- Testes automatizados
-
----
-
-# GitHub Stats
+## Estatísticas do Ecossistema
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=beatrizaraujov&show_icons=true&theme=tokyonight" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizaraujov&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=beatrizaraujov&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beatrizaraujov&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
 
-# Objetivos
+## Filosofia de Ofício
 
-Atualmente busco evoluir como Desenvolvedora Full Stack, participando da construção de produtos digitais completos — desde a arquitetura e banco de dados até a experiência final do usuário.
-
-Tenho interesse em projetos que envolvam:
-
-- Engenharia de Software
-- Produtos SaaS
-- Inteligência Artificial
-- Dashboards
-- Sistemas internos
-- Automação
-- Cloud Computing
+> *"Acredito que bons produtos surgem da união entre engenharia, design e entendimento do problema. Meu objetivo é construir software simples de usar, escalável e capaz de gerar valor para as pessoas e para o negócio."*
 
 ---
 
-# Filosofia
-
-> "Tecnologia só gera valor quando resolve problemas reais. Meu objetivo é construir software simples de usar, sustentável de manter e capaz de evoluir junto com o negócio."
-
----
-
-## Vamos conversar?
-
-Estou sempre aberta a trocar ideias sobre tecnologia, desenvolvimento Full Stack, arquitetura de software, produtos digitais e novas oportunidades.
-
-⭐ Se algum projeto chamou sua atenção, fique à vontade para entrar em contato!
+Disponível para oportunidades e projetos envolvendo desenvolvimento Full Stack, engenharia de software, produtos digitais e automação de processos.
